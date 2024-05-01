@@ -1,32 +1,35 @@
 # MBA_PHP
 Curso de Desenvolvimento Back End 
 
+# Tema 01 – Introdução à programação PHP
 
-#Tema 01 – Introdução à programação PHP
+**Indicação 1:** Capítulo 3 do livro "Lear
 
-##Indicação
-###Indicação 2: Capítulo 3 do livro "Lear
-#Tema 02 – Tipos no PHP
+# Tema 02 – Tipos no PHP
 
-##Indica
-###Indicação 2: Capítulo 6 do livro "PHP & My
-#Tema 03 – Constantes, variáveis e operadores
+**Indicação 1:** Capítulo 6 do livro "PHP & My
 
-##Indicação 1: Capítulo 1 do livro "Desenvolvimento de sites dinâmicos com Dreamweaver CC"
-##Indicação 2: Capítulo 2 do livro "Flash and PHP"
-#Tema 04 – Estruturas de controle
+# Tema 03 – Constantes, variáveis e operadores
 
-##Indicação 1: Capítulo "Linguagem PHP – Estruturas de Controle" do livro "Desenvolvimento de sistemas com
-##Indicação 2: Capítulo 7 do livro "PHP &
-#Tema 05 – Funções
+**Indicação 1:** Capítulo 1 do livro "Desenvolvimento de sites dinâmicos com Dreamweaver CC"
+**Indicação 2:** Capítulo 2 do livro "Flash and PHP"
 
-##Indicação 1: Capítulo "Linguagem PHP – outros comandos" do livro "Desenvolvimento de sistemas
-##Indicação 2: Capítulo 3 do livro "PHP 7"
-#Tema 06 – PHP e orientação a objetos
+# Tema 04 – Estruturas de controle
 
-##Indicação 1: Capítulo "Linguagem PHP Orientada a Objetos" do livro "Desenvolvimento de S
-##Indicação 2: Capítulo 4 do livro "Learning PHP 7"
-#Tema 07 – PHP e MySQL
+**Indicação 1:** Capítulo "Linguagem PHP – Estruturas de Controle" do livro "Desenvolvimento de sistemas com
+**Indicação 2:** Capítulo 7 do livro "PHP &
 
-##Indicação 1: Capítulo 8 do livro "Desenvolvimento de software II: introdução ao desenvolvimento web com HTML, CSS,
-##Indicação 2: Capítulo 5 do livro "Learning PHP 7"Each topic has two recommended readings, which are indicated by "Indicação 1" and "Indicação 2". The corresponding chapter and book title are provided for each recommendation. The books are available through the Kroton Virtual Library's partners, Minha Biblioteca and EBSCO HOST.
+# Tema 05 – Funções
+
+**Indicação 1:** Capítulo "Linguagem PHP – outros comandos" do livro "Desenvolvimento de sistemas
+**Indicação 2:** Capítulo 3 do livro "PHP 7"
+
+# Tema 06 – PHP e orientação a objetos
+
+**Indicação 1:** Capítulo "Linguagem PHP Orientada a Objetos" do livro "Desenvolvimento de S
+**Indicação 2:** Capítulo 4 do livro "Learning PHP 7"
+
+# Tema 07 – PHP e MySQL
+
+**Indicação 1:** Capítulo 8 do livro "Desenvolvimento de software II: introdução ao desenvolvimento web com HTML, CSS,
+**Indicação 2:** Capítulo 5 do livro "Learning PHP 7"
