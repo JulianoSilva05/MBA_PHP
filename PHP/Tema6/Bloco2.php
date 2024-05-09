@@ -1,25 +1,32 @@
 <?php
     //Criando a classe
     class Pessoa{
-        public $nome = "Juliano";
-        public $idade = 20;
-        public $sexo = "M";
-        function fazerAniversario($idade){
-            $this->idade + 1; 
-        }
-    }
+        private $nome = "Juliano";
+        private $idade = 20;
+        private $sexo = "M";
 
-    class Aluno extends Pessoa{
-        public $matricula = 1;
-        public $curso = "Informatica";
-        function cancelarMatricula($matricula){
-            $this->matricula = null;
+        public function getNome(){
+            return $this->nome;
         }
+        public function setNome($nome){
+            return $this->nome = $nome;	
+        }
+        public function getIdade(){
+            return $this->idade;
+        }
+        public function setIdade($idade){
+            $this->idade = $idade;
+        }
+        public function getSexo(){
+            return $this->sexo;
+        }
+        public function setSexo($sexo){
+            $this->sexo = $sexo;
+        }     
     }
-
     $p1 = new Pessoa();
-    $a1 = new Aluno();
-
-    print_r($p1);
-
+    $p1->setNome("Juliano");
+    $p1->setIdade(25);
+    $p1->setSexo("M");
+    echo"Nome - ", $p1->getNome(),"<br>Idade - ", $p1->getIdade(),"<br>Sexo - ", $p1->getSexo();
 ?>

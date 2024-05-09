@@ -26,7 +26,7 @@ Curso de Desenvolvimento Back End
 
 # Tema 06 – PHP e orientação a objetos
 
-**Indicação 1:** Capítulo "Linguagem PHP Orientada a Objetos" do livro "Desenvolvimento de S
+**Indicação 1:** Capítulo "Linguagem PHP Orientada a Objetos" do livro "Desenvolvimento de Sistemas
 **Indicação 2:** Capítulo 4 do livro "Learning PHP 7"
 
 # Tema 07 – PHP e MySQL
